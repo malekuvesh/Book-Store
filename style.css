@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    text-align: center;
+    padding: 90px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(111, 51, 224);
+}
+.hope,a{
+    padding: 10px 20px;
+    background-color: rgb(115, 206, 111);
+    position: sticky;
+    top: 0px;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;  
+}
+a:hover{
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+
+}
+h2,p{
+    padding: 5px 50px;
+}
+h2{
+    color: rgba(248, 55, 21, 0.931);
+    font-weight: bold;
+}
